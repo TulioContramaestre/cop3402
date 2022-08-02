@@ -1,3 +1,3 @@
 # Compiler
 
-# Authors: Me, Tulio, Dmitri
+# Authors: Jerzy, Tulio, Dmitri
